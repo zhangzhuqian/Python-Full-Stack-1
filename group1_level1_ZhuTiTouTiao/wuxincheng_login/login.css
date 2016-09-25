@@ -1,0 +1,38 @@
+.ui.basic.padded.segment.login{
+    position: relative;
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 400px;
+}
+
+.ui.basic.segment.login-input{
+    /*width: 500px;*/
+    position: relative;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 40%;
+
+}
+
+
+
+.ui.green.button.register{
+    margin-top: 30px;
+    margin-left: -80px;
+    position: relative;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 50%;
+
+
+
+}
+
+
+.ui.blue.button.login{
+    margin-left: 150px;
+    position: relative;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 50%;
+}
