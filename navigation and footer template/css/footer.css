@@ -1,0 +1,10 @@
+.ui.vertical.inverted.blue.segment.foot {
+    height: 105px;
+}
+.ui.three.column.grid.center.aligned.container.foot{
+    padding-top: 20px;
+    font-size: 14px;
+}
+.linkfontcolor{
+    color: white;
+}
